@@ -54,7 +54,7 @@ public class Assignment2 {
 			if(y % x == 0){
 				System.out.print("It's divisible!");
 			}
-			
+			//I changed it!!!!!!!!!!!!!!!!!!!!!!!!
 		 	}
 	
 		 }
